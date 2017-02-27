@@ -43,6 +43,7 @@ try
         "dev15-rc3" { } 
         "master" { } 
         "post-dev15" { } 
+        "dev_brettfo_nuget-package-version-test" { } 
         default
         {
             if (-not $test)
